@@ -6,6 +6,6 @@ I'm an aspiring statistician and data enthusiast who loves turning numbers into 
 - 🌱 I’m currently learning advanced Python and R for data science.
 - 👯 I’m looking to collaborate on open-source projects related to statistics and data science.
 - 💬 Ask me about statistics, data visualization, and machine learning.
-- 📫 How to reach me: (email)(mailto:njihiafelista@gmail.com)  
+- 📫 How to reach me: (email) (mailto:njihiafelista@gmail.com)  
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love hiking and exploring nature!
